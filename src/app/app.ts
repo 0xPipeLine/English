@@ -2,7 +2,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { words, management } from './words'
+import { words } from './en1'
 
 @Component({
   selector: 'app-root',
